@@ -20,11 +20,11 @@ React Native Fontawesome Icons
 ## Using npm
 `npm i --save react-native-fontawesome`
 
-This module uses Font Awesome version 5.9.0. There is no need to link binaries just import the package and include the Font File in your project.
+This module uses Font Awesome version 5.15.2. There is no need to link binaries just import the package and include the Font File in your project.
 
-This package will not download Font Awesome for you. You have to manually download the font files ([Click here](https://github.com/entria/react-native-fontawesome/tree/master/sample/assets/fonts) to get the right files) and put it into your working folder.
+This package will not download Font Awesome for you. You have to manually download the font files ([Click here](https://use.fontawesome.com/releases/v5.15.2/fontawesome-free-5.15.2-web.zip) to get the right files) and put it into your working space folder.
 
-Follow this guides for adding FontAwesome.ttf to your projects:
+Follow this guides for adding fa-*.ttf to your project:
 
 [Adding Custom Fonts to A React Native Application for IOS](https://medium.com/@dabit3/adding-custom-fonts-to-react-native-b266b41bff7f)
 

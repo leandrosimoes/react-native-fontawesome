@@ -1,6 +1,6 @@
 # Sample project
 
-This is a sample project to show how to use the `react-native-fontawesome` package. The version of React Native used in this project is 0.59.9. The version of Font Awesome used in this project is 5.9.0 Free.
+This is a sample project to show how to use the `react-native-fontawesome` package. The version of React Native used in this project is 0.59.9. The version of Font Awesome used in this project is 5.15.2 Free.
 
 ### - Running on Android
 
